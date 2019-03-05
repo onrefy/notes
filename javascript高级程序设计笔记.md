@@ -722,3 +722,92 @@ if (drawing.getContext){
 
 
 
+## 第17章 错误处理
+
+#### 1. try-catch语句
+
+```javascript
+try{
+    window.someNonexistentFuntion();
+} catch (e){
+    alert('An error happened!');
+    alert(e.message);
+}
+```
+
+#### 2. finnally语句
+
+无论try、catch语句中是什么都会执行，甚至是return
+
+```javascript
+function testFinally(){
+    try {
+        return 2;
+    } catch (e) {
+        return 1;
+    } finally {
+        return 0;
+    }
+}
+```
+
+#### 3.错误类型
+
+* Error：
+
+  基类型，主要用于开发者抛出自定义错误
+
+* EvalError：
+
+  给eval赋值，没有将其当作函数使用
+
+  ```javascript
+  new eval();//Throw evalError
+  eval = foo;//Throw evalError
+  ```
+
+  
+
+* RangeError:
+
+  数值超出相应范围
+
+  ```javascript
+  var items1 = new Array(-20);
+  var items2 = new Array(Number.MAX_VALUE);
+  ```
+
+  
+
+* ReferenceError:
+
+  找不到对象错误，熟知的“object expected”错误
+
+* SyntaxError
+
+  语法错误
+
+* TypeError
+
+  操作特定于类型的操作时，变量的类型并不符合要求
+
+* URIError
+
+  使用encodeURI和decodeURI发生错误
+
+
+
+#### 利用错误的属性类型进行操作
+
+```javascript
+try{
+    someFunction();
+} catch(e) {
+    if (e instanceof TypeError){
+        
+    } else if (e instanceof ReferenceError){
+        
+    } else {};
+}
+```
+
