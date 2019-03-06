@@ -135,6 +135,58 @@ not JUGGLE
 
 
 
+#### 嵌入
+
+* We had to put the meeting off since so many people were absent.
+
+  太多人缺席，会议只好推迟
+
+* He usually walks when he might ride.
+
+  他总是以步代车
+
+* These thee colors, red, green and violet, when combined, produced white.
+
+  把红绿蓝三种颜色混合在一起会产生白色
+
+* He was arrested when he himself was not aware what crime he had committed.
+
+* If we have carried on thorough investigation, we can draw a correct conclusion.
+
+  彻底调查后，就能得到正确的结论
+
+  
+
+#### 转换
+
+用tion / ment / age 结尾的词
+
+
+
+表语
+
+* He is a liar
+
+  他撒谎
+
+
+
+动词名字同样的
+
+* care / review
+
+
+
+动词转换为状语
+
+* used to
+
+
+
+difficulties
+
+种种困难
+
 
 
 
