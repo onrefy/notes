@@ -112,6 +112,37 @@ not JUGGLE
 
 
 
+# 2
+
+#### interpreting listening:active
+
+* idefination of keywords
+* analysis of logic
+
+
+
+#### Note-taking
+
+* what / who
+* where / when / how
+* why
+
+
+
+## Subject-prominent主语突出
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
