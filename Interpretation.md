@@ -191,6 +191,67 @@ difficulties
 
 
 
+# 3.
+
+逻辑分析： 
+
+* 表示原因： 
+
+  * 使用because, due to
+
+  * 使用定于从句
+
+  * 使用介词短语
+
+  * 使用悬垂结构
+
+    * with
+
+    * ing
+
+      
+
+      * 电子表便宜且精准，因此被广泛使用
+
+        Electronic watches, being cheap and accurate, are widely used.
+
+      * 手机的出现的确给人们的生活带来了方便，逐渐成为第一大通行工具乃至娱乐工具。随着手机功能的日趋强大，人们对手机的依赖性也与日俱增。对手机的过分依赖使一系列“手机病”开始出现在我们身边。
+
+        Mobile phones, which do bring convenience to people's life, have gradually becoming the biggest tool of communication and entertainment.
+
+        With/As phones being/are powerful, people are becoming increasingly reliant on phones leading to illness and disorders.
+
+      * 我们用了一天的时间，围绕会议主题和三大议题进行了热烈而富有成果的讨论，就亚太发展远景和亚太经合组织合作方向等问题深入交换看法，达成许多重要共识。
+
+        * 被动语态
+        * “我们”省略
+        * We have achieved significant consensus after fruitful and heated discussion on conference topic and 3 proposals, and in-depth exchange of views on vision of asian development and cooperation of asian .
+
+      * 体育运动是人类的共同语言，是促进和平与发展的重要因素。自远古时代起，体育运动就已超越种族、肤色、文化的差异，承载着人类对和平美好的向往与追求。诞生于2000多年前的奥林匹克精神，就是这一追求的具体体现。
+
+        * 注意语态
+        * The sport which has transcended the differences in race, color, culture, give expression to aspiration for/to a peaceful and better world,  which is evidenced in the Olympic spirit that came into being 2,000 years ago.
+
+      * 女士们先生们，我很高兴能够参加管理策略的研讨会，我将对管理中的组织结构发表自己的看法。
+
+        Ladies and gentlemen, good morning! It is my honor to attend the seminar on management strategy. Now I would like to put forward my opinion about organizing in management.
+
+      * 组织结构是一种基本功能，为了让人们更有效的合作，必须要明确他们的职责任务目标责任权力。这就需要一个正规组织，去规定他们之间的关系，为决策的交流与沟通提供方便。
+
+        For effective copperation, people must know their roles, their objectives, their responsibility, and their authority, which requires a formal structure to define their relationship and facilitate communication of the decisions.
+
+      * 如果这个系统能够使个人能够用最低的成本达到效果，这个系统就是有效的。
+
+        Such a structure is efficient if it 
+
+### 中文的衔接手段
+
+
+
+
+
+
+
 
 
 
