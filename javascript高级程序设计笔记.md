@@ -191,7 +191,7 @@ console.log(boundGetX());
 6. 匹配方法
    * match：返回一个数组
    * search：返回从头开始的第一个符合匹配的索引，否则返回-1
-   * repalce：替换❓❓❓涉及正则表达式
+   * repalce：替换
 
 
 
@@ -667,6 +667,90 @@ newFactorial(8);//ERROR!
 
 
 #### ...
+
+
+
+### 第7.5章 模块化
+
+#### 1.导出变量
+
+##### 导出变量的实质是让模块接口和内部变量有一个一一对应的关系
+
+
+
+以下是错误示范：
+
+```javascript
+export 1;
+
+var m = 1;
+export m;
+```
+
+因为都是直接使用原来模块中的变量值，这是没有意义的
+
+正确示范：
+
+```javascript
+export var m = 1;
+
+var m = 1;
+export {m};
+
+var n = 1;
+export {n as m};
+```
+
+
+
+##### 这种绑定是一种动态关系，通过接口可以拿到模块内部的实时值。
+
+
+
+#### 2.读入
+
+##### import的变量都是只读的，不允许改变接口。
+
+import具有提升效果
+
+#### 3.加载
+
+```javascript
+// circle.js
+
+export function area(radius){
+    return Math.PI * radius * radius;
+}
+
+export function circumference(radius) {
+    return 2 * Math.PI * radius;
+}
+```
+
+```javascript
+//main.js
+import { area, circumference } from './circle';
+
+console.log(area(4));
+console.log(circumference(14));
+```
+
+上面是逐一加载，下面是整体加载
+
+```javascript
+import * as circle from './circle';
+
+console.log(circle.area(4));
+console.log(circle.circumference(14));
+```
+
+#### 4.默认输出
+
+```javascript
+
+```
+
+
 
 ### 第13章 事件
 
