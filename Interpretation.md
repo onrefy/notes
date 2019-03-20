@@ -252,11 +252,50 @@ difficulties
 
 
 
+# 4
+
+* 2011-2017年，海归人数呈逐年上升趋势，对海归人才来说，最偏好的是北上广深四大一线城市，金融与科技领域是首选。从海归人才的年龄结构上看，20-29岁是主体, 同时30-34岁的比率也有明显增高。这些海龟全体有着多年的工作经验，回国后通常作为高等职位，充当企业大梁。
+* The seven years have witnessed a growing/increasing number of Chinese returnees who  work in the first-tier cities of Beijing, ShangHai, Gaungzhou, Shenzhen as finances and tech. Although returnees between compose the largest part of overseas returnees, the promotion of returnees in their 30s has been on the significant increase/rise as these returnees are offered top E positions as they have much professional experience.
+
+
+
+* 随着人们生活节奏的加快，每天能拿出专门的时间捧起书本阅读，成为一件越来越奢侈的事情。在此条件下，“有声读物”成为国民阅读新宠。有声读物不受时间、地点限制，想听就听的特点为阅读提供了更多便利。此外，有声读物还能充分呈现声音的魅力，将优秀作品以绘声绘色的形式表现出来，吸引不同年龄段人群的喜爱。
+* Audio books are becoming a popular alternative as accelerated pace of life prevents people from reading. Removed from time and space restrains,  Audio books make it possible to read anytime anywhere. In addition, audio books attract reader of dfferent ages as masterpieces which are read are aurally appealling .
+* 选择主语
+* 理清逻辑
+* 使用各种方式操作
+* 使用连接词来连接各个句子：句际连接关系
 
 
 
 
 
+### 记忆
+
+1. chunking 分段分组
+2. 通过逻辑分析记忆
+3. 可视化记忆
+
+相关性：
+
+1. 主体熟悉度
+2. 相关度逻辑度
 
 
+
+1. 总分总结构
+2. 找论据：
+   * positive influence
+   * collective power
+
+
+
+* Modern family
+
+* 并列内容
+* 数字
+
+
+
+#### 作业：P120 各种符号、组织缩写熟悉、常用规律
 
