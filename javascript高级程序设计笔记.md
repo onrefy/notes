@@ -747,7 +747,91 @@ console.log(circle.circumference(14));
 #### 4.默认输出
 
 ```javascript
+export default function foo(){
+    console.log('foo');
+}
 
+//or
+function foo() {
+    console.log('foo');
+}
+
+export default foo;
+```
+
+下面是引入
+
+```javascript
+import f from 'foo'
+```
+
+不用使用大括号因为这里的话就会使用f作为foo的新名字
+
+#### 5.复合写法
+
+```javascript
+export { foo, bar } from 'my_module';
+
+//可以简单理解为
+import { foo, bar } from 'my_module';
+export { foo, bar };
+```
+
+要注意的是，foo和bar实际上没有导入当前模块，只是转发了两个接口，所以当前模块不能直接使用foo和bar。
+
+#### 6.模块继承
+
+```javascript
+export * from 'father'
+```
+
+#### 7.跨模块常量
+
+利用一个constant.js文件存储跨文件的常量
+
+```javascript
+//constants.js
+export const A = 1;
+export const B = 3;
+export const C = 5;
+```
+
+```javascript
+//test1.js
+import * as constants from './constants';
+console.log(constants.A);
+console.log(constants.B);
+```
+
+```javascript
+//test2.js
+import {A, B} from './constants';
+console.log(A);
+console.log(B);
+```
+
+如果需要的常量过多，可以建立一个constant目录，将常量保存在不同文件中
+
+```javascript
+// constants/db.js
+export const db = {
+    url: 'http://www.bilibili.com',
+    admin_username: 'admin',
+    admin_password: 'admin password'
+};
+```
+
+```javascript
+//constants/user.js
+export const users = ['root', 'admin'];
+```
+
+使用index.js整合
+
+```javascript
+//constants/index.js
+export {db} from './db';
+export {users} from './users';
 ```
 
 
