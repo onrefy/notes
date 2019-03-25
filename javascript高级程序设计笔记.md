@@ -672,6 +672,8 @@ newFactorial(8);//ERROR!
 
 ### 第7.5章 模块化
 
+### ES6模块化
+
 #### 1.导出变量
 
 ##### 导出变量的实质是让模块接口和内部变量有一个一一对应的关系
@@ -833,6 +835,10 @@ export const users = ['root', 'admin'];
 export {db} from './db';
 export {users} from './users';
 ```
+
+
+
+### node.js模块化
 
 
 
