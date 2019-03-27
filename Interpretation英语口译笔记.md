@@ -246,12 +246,6 @@ difficulties
 
 ### 中文的衔接手段
 
-
-
-
-
-
-
 # 4
 
 * 2011-2017年，海归人数呈逐年上升趋势，对海归人才来说，最偏好的是北上广深四大一线城市，金融与科技领域是首选。从海归人才的年龄结构上看，20-29岁是主体, 同时30-34岁的比率也有明显增高。这些海龟全体有着多年的工作经验，回国后通常作为高等职位，充当企业大梁。
@@ -265,8 +259,6 @@ difficulties
 * 理清逻辑
 * 使用各种方式操作
 * 使用连接词来连接各个句子：句际连接关系
-
-
 
 
 
@@ -298,4 +290,77 @@ difficulties
 
 
 #### 作业：P120 各种符号、组织缩写熟悉、常用规律
+
+
+
+
+
+### 5
+
+* choose to 
+* opt for
+* 爱情是一种感觉，婚姻是一个约定，而夫妻关系则是一门功课。对于很多婚姻不幸……
+
+
+
+
+
+* 一项研究表明，
+* A day time nap can make up for the lack of time for people who under-slept.
+* Sleep and nap are correlated/associated with an increasing of risk of stroke and heart-deseased.
+* The rising risk is due to that people who have **underlying deseases** sleep longer and those conditions **in turn to**
+* Qusetion about sleeping pattern/night-sleep and day-time nap may help the doctors identify the patients who are at increased risk of .
+
+
+
+#### 中文无主句
+
+1. 采用被动语态
+
+* 达成了协议
+
+2. 采用there
+
+* 剩下的时间不够了
+
+3. 采用it
+
+4. 增添适当代词
+
+   * You / we / those
+   * people / a person / one 
+     * 听其声，知其人
+     * 不能不佩服他的刻苦钻研的仅剩
+
+5. 采用倒装句
+
+   * 底下埋藏着大量的金、银、铜有助于……
+
+   * hiden under groud is the ….
+
+   * 没有调查，没有发言权
+
+     He who … has no right to speak.
+
+#### 无主句总结
+
+1. 是……的
+   * 
+
+* 数以百万的中国人上网成瘾，沉迷
+
+* 每天上网超过6小时，且符合以下症状中的任何一条：总想着去上网，出现睡眠障碍，注意力不集中，不能上网时烦躁不安，情绪低落，即判定属于网瘾。
+
+  One is diagnosed with addiciton who spends 6 hours online and exhibits at least one symptom including desire to be online, difficulty in or concentrating, irritation or depression without internet.
+
+* 网瘾治疗（与治疗其他成瘾疾病类似），首先要切断病人与网络的联系，然后给予心理辅导，再辅之以小组互动活动，（教病人和现实社会进行交流）。
+
+  The treatment which is similiar to other treatments involves diconnecting, counseling
+
+
+
+### note taking
+
+1. 人名字
+2. 并列项
 
