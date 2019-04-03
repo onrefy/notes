@@ -364,3 +364,39 @@ difficulties
 1. 人名字
 2. 并列项
 
+
+
+
+
+### 6
+
+*  从古至今，人们总是向自然索求，以满足自己的欲望。
+
+  **Throughout the history, people have been demanding**. We never consider/think about soil erosion caused by/resulting from deforestation **when** we enjoy beautiful and comfort furniture. We never realize precious burning resources when we take heating in winter for granted. We never **reckon with** pollution by when we appreciate the prosperity from development of modern industry. 
+
+* 研究指出，爱早起的人患抑郁症的可能性要低35%，总体来说也更加快乐。
+
+  The study has found that early riser are 35% less likely to suffer from depression and are generally happier too.
+
+* 过去三十年来，外贸出口引领了亚洲经济增长，数百万妇女加入了出口企业的劳动大军，为全世界生成消费品。她们的工作使家庭免于贫困，让她们更加独立，也让她们获得更多的机会。由于全球经济的衰退，需求减缓，迫使制衣厂、电子厂等各项制造工厂纷纷倒闭，数以万计的妇女正在失去工作。
+
+  **Export-driven** asian economic growth over the past tree years/dacades  has drawn millions of women into the work force, who manufacture comsumer products. Their work helped their family **shake off poverty**, and gave them greater chances and independence. With the economic downturn, factor are forced to shut down, which means that millions of women to lose their jobs, making everything from cloth and electonic thing. 
+
+
+
+#### note-taking
+
+* supplement aid
+* children kid
+* increase rise
+* with w/
+* without w/o
+
+
+
+
+
+* 数字
+* 姓名
+* such as
+* logic
