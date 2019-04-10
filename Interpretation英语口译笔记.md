@@ -400,3 +400,20 @@ difficulties
 * 姓名
 * such as
 * logic
+
+
+
+### 7
+
+* 许多求职者在面试中都会侃侃而谈简历上没有的东西，避而不谈简历上的内容。这是错误的。招聘主管对你的简历并没有那么熟，可能在面试时才第一次看你的简历。在谈论自己的成就时，要加上简历上的相关内容，以及在日常工作中的表现。另外，带上笔记本和笔，在面试过程中做笔记。对面试官而言，面试不带这些东西可能意味着你没有做准备，或者对这个工作机会不感兴趣。
+
+  Many candidates make the mistake of bringing up all new material in the interview without mention of what is in the resume, as the interviewers may not read your resume until interview. Seekers are advised to weave in relevant pointsn from the resume and their performance inthe discussion of their adjustments. It is better for them to bring pad and pen to jot down as the absence of these items may signal that candidate is unprepared for the interview and he is not interested in the job.
+
+* 随着全球经济衰退的影响逐渐显现，西方国家从银行职员到工厂工人，都面临着丢饭碗的风险；对于东方"同仁"们来说，可能只是减薪而已。人力资源专家将这种差别归因为文化差异。在经济困难时期，亚洲公司会更努力地保留职位，这不仅可以减少失业，还能帮助该地区经济在出口放缓的情况下保持平稳。东亚企业的这种作风可能有助于其迅速从经济衰退中复苏，因为这些企业无需再重新招聘和培训新员工。
+
+  The employees in the east face pay-cuts while employees in the west face the danger of unemployment in the midst of  global recession beginning to start to bite. Cultural differences may explain why the Asian companies try hard to preserve jobs in difficult times, which can stem unemployment and keep Aisan economy afloat as exports slow down in exports. The eastern flexibility will make it easier for firms to recover from economic downturn since these firms will not need to recruit or train new staff.
+
+
+
+# 15% a4纸 左边4笔记 右边6答案 正面听力原文
+

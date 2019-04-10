@@ -1,12 +1,10 @@
 1. creative coding
-   * js前后端通讯
-   * 如何实现模块化
+   * js canvas学习
    * three.js研究
    * js库的研究
    * 线性代数分析
    * glsl分析以及复变函数分析
    * recode project
-   * 打字
    * coding war
    * c#
    * three.js gpu
