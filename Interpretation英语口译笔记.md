@@ -295,7 +295,7 @@ difficulties
 
 
 
-### 5
+# 5
 
 * choose to 
 * opt for
@@ -368,7 +368,7 @@ difficulties
 
 
 
-### 6
+# 6
 
 *  从古至今，人们总是向自然索求，以满足自己的欲望。
 
@@ -403,7 +403,7 @@ difficulties
 
 
 
-### 7
+# 7
 
 * 许多求职者在面试中都会侃侃而谈简历上没有的东西，避而不谈简历上的内容。这是错误的。招聘主管对你的简历并没有那么熟，可能在面试时才第一次看你的简历。在谈论自己的成就时，要加上简历上的相关内容，以及在日常工作中的表现。另外，带上笔记本和笔，在面试过程中做笔记。对面试官而言，面试不带这些东西可能意味着你没有做准备，或者对这个工作机会不感兴趣。
 
@@ -416,4 +416,52 @@ difficulties
 
 
 # 15% a4纸 左边4笔记 右边6答案 正面听力原文
+
+。
+
+# 8
+
+* 随着智能手机和电子阅读器日益普及，一些人担心纸质书的时代即将结束，但近期一项调查显示，纸质书籍在读者中依然大受欢迎。很多读者表示看电纸书很容易分心，还会头疼眼睛酸。看纸质书则完全不同，他们喜欢拿着书的感觉，而且看完一本书，会有一种成就感。
+
+  When reading paper books many readers are easily distracted and causes headaches get headaches and sore eyes.
+
+  Many readers said reading e-books proved to be a distraction and a  cause of headache and sore eyes.
+
+  Paper books could bring different reading experience. For one thing, they like to hold the printed books. For another you will get a sense of achievement  after reading a book.
+
+* 与他人结伴出游，很有可能需要迁就彼此。打个比方，你想早起看日出，而你的朋友觉得睡觉更加重要。这或许是越来越多人选择独自旅行的原因。独自出游的人比例正在上升，从2011年的6%，到2018年的15%。事实上，近来人们希望拥有更多的独处时光，这成了一种趋势，而独自出游这是其中一小部分罢了。
+
+  Chances are that 
+
+  Travel by thmeselves
+
+  Travel alone 
+
+  Choose solo trip
+
+  Travelling alone represents trend for that people wish to have (solitary) moments (of solitude) (on their own) .
+
+* 中美两国相隔甚远，经济水平和文化背景差异很大。
+
+  China and USA are far apart geographically and greatly different, economically and culturally.
+
+* 昨天的中国，是一个古老并创造了灿烂文明的大国。
+
+  China was a big acient country which created splendid civilizaition.
+
+* 今天的中国，是一个改革开放与和平崛起的大国。
+
+  China is a country in reform and opening-up and rising power that is devoted to peace.
+
+* 明天的中国，是一个热爱和平和充满希望的大国。
+
+  China is is a country that loves peace and has a great deal to forward-looking
+
+
+
+15 t 1.5万
+
+15m 1500万
+
+15b 150亿
 
