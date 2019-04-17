@@ -1,40 +1,16 @@
 1. creative coding
-   * js canvas学习
+
+   * 笔记整理
+   * 包管理
+   * 封装基础技术
+   * 代码去耦
+   * brush笔刷复现
+
    * three.js研究
-   * js库的研究
-   * 线性代数分析
+   * webgl
+   * 网页通讯技术
    * glsl分析以及复变函数分析
-   * recode project
-   * coding war
-   * c#
-   * three.js gpu
+
 2. 英语
-   * 托福
-     * 刷三套题目去保证熟悉
-   * 单词
-     * 每天背单词
-     * 利用YouTube查单词
-   * 听力
-     * 准备六级听力开始
-   * 口语
-   * 阅读
-     * 准备六级阅读
-3. 课内
-
-   * 英语口译准备
-
-
-
-# 事件缓急准备
-
-1. 每天coding war/recode project
-2. 库文件的探寻
-   * 如何使用import来导入npm库
-   * 各种外设和js的连接方式
-   * lodash学习
-   * two.js和three.js学习
-3. 英语口译准备
-   * 明天准备30mins
-4. 英语刷题
-5. 数学学习
-6. 课内模型可视化
+   * 托福不着急先去询问老师
+   * 六级听力练习册购买
