@@ -191,7 +191,7 @@ difficulties
 
 
 
-# 3.
+# 3
 
 逻辑分析： 
 
@@ -465,3 +465,128 @@ difficulties
 
 15b 150亿
 
+
+
+# 9
+
+#### quiz
+
+* History left heritages, cultural and natural, which are treasures for .
+
+  These heritages are threatened by the damage, caused by rot /  corrosion and social and economics change, which is facing 
+
+* get ahead in workplaces 职场上处于领先地位
+
+  beyond borders 跨国界
+
+  cross-discipline 跨界学习
+
+
+
+* 不久前，软件程序员在网上掀起了一个反对996工作制的活动，一些活动人士呼吁更强有力的监管，而中国的科技公司普遍采用996工作制。
+
+  996工作制指的是员工从早上9点工作到晚上9点，每周工作6天，没有加班费。一位匿名资深程序员说，公司管理人员很少说996工作制是强制性的，但如果不遵从这一规则，绩效分数会很低，甚至被裁员。
+
+* People are calling for more supervision in an online activity initiated activity by programmers against the work system / schedule, which is adopted/ practiced in most china corporation. 
+
+  996...
+
+  A senior programmer said employers seldom say that the schedule is compulsory, but failure to follow the rule might lead to a low performance scores and layoffs.
+
+* 无名：
+
+  Jane Doe 女
+
+  John Doe 男
+
+  A dear John letter: 分手信
+
+  Long johns: 秋衣
+
+  Go to the john: 卫生间
+
+* 所谓的"懒人经济"是指一种新型消费方式，从本质上讲是人们想省时省力。
+
+  随着生活节奏加快，人么越来越多的时间花在了工作学业上，结束了一天紧张忙碌的学习工作之后，不愿花时间做饭打扫卫生，要享受来之不易的休闲时光。
+
+  懒人经济为年轻人带来了不少比那里，但也会导致年轻人变得不爱社交，甚至与他人产生沟通问题。
+
+* Economy is new type of consumption of products and services, which is designed to save time and labor.
+
+  enjoy hard-earned leisure time after a busy and stressful day at instead of doing house chores.
+
+  While the lazy economy brings convenience for young people, it might also make young people less social and have problems of communicating with others.
+
+* 目前就业形势严峻，应届毕业生纷纷做起了"创业梦"。但今日一份调查表明，大学生的"创业梦"得不到应有的支持，还仅仅是一个梦而已。**受访大学生认为，资金不足、缺乏经验，还有家人反对，是阻碍创业的主要因素。**超过90%的受访者称，他们打算毕业后先找份工作，干个两三年后再自己创业。
+
+* Students surveyed cited shortage of investment, lack of experience and objections from families 
+
+as main factors that stood in their way.
+
+
+
+
+
+* climb
+
+  pick up, ratch up
+
+* slip
+
+  dip, be trimmed
+
+* plunge
+
+  tumble, be slashed, plummet
+
+* 同比（逐年）
+
+  环比（比上一年）
+
+  A year-on-year increase
+
+  month-on-month
+
+  quarter-on-quarter
+
+* around, about
+
+  approximately, roughly, in the rough, in the neighborhood of
+
+* total
+
+  add up to, amount to
+
+* less than
+
+  fewer than, under, below, within
+
+* more than
+
+  over, above, odd
+
+  3,000-odd 3000多人
+
+
+
+trade deflect 贸易赤字
+
+* 全国基本普及九年义务教育、基本扫除青壮年文盲的人口地区覆盖率，由1997年的65%提高到2014年的95%。
+
+  Areas where 9-years compulsory education popularize / universalized and where ill literacy had been eliminated occupy / accounted for 65% of the population and the figure rose to 95%.
+
+* 四年来，国家财政用于科技的投入累计2500亿元，比前四年增长一倍多。全国研究和试验开发经费，从2010年的509亿元增加到2014年的1161亿元，占国内生产总值的比重从0.64%提高到1.13%。
+
+  about half and half for exports and imports
+
+
+
+# P151 倍数
+
+time
+
+by
+
+-fold
+
+factor  of 
