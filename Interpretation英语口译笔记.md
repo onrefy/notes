@@ -519,9 +519,7 @@ difficulties
 
 * 目前就业形势严峻，应届毕业生纷纷做起了"创业梦"。但今日一份调查表明，大学生的"创业梦"得不到应有的支持，还仅仅是一个梦而已。**受访大学生认为，资金不足、缺乏经验，还有家人反对，是阻碍创业的主要因素。**超过90%的受访者称，他们打算毕业后先找份工作，干个两三年后再自己创业。
 
-* Students surveyed cited shortage of investment, lack of experience and objections from families 
-
-as main factors that stood in their way.
+* Students surveyed cited shortage of investment, lack of experience and objections from families as main factors that stood in their way.
 
 
 
@@ -590,3 +588,32 @@ by
 -fold
 
 factor  of 
+
+
+
+# 10
+
+* 这个月迎来了毕业季，一大批学生将告别自己的母校，忙着找工作。然而，并非所有的学生都急着就业。调查显示，接受调查的93420位毕业生中，大约有9.8%的毕业生表示他们不会一毕业就开始工作，这一现象称为"慢就业"。事实上，自2011年以来，毕业后半年内不选择就业的学生人数正在稳步上升，原因之一是年轻人希望能找到一份和自己个人兴趣相关的工作，他们不愿意作出让步，接受自己不喜欢的工作。
+
+  As the graduation season  is/gets under  way this month, a great number of students are busy hunting job. About/close to 9.8% of surveyed students said that they would not start their careers upon graduation, which is called **delayed** employment. The number of students who chose/opt to find a favorite job has been steadily/on stead growing since the year 2011. 
+
+* 过去，人们度假总是把时间耗在大城市，参观博物馆，浏览著名的景点，还有一些人则喜欢去风景如画的海滩散散心。游客过分拥挤，热门景点的海滩散散心。游客过分拥挤，热门景点的风景不再，再加上过度商业化使许多旅游景点变成了旅游陷阱。因此自20世纪80年代初期以来，探险度假活动已经逐渐流行起来。人们去喜马拉雅山脉翻身跃岭，去荒郊野岭探险过简陋的生活。
+
+  Some people used to spend time visiting  while others preferred to relax on beautiful / picturesque beaches. Overcrowding **spoiled** natural beauty of popular sites and excessive commercialization spots into traps. Since the 1980s, advanture-oriented vacation activities have become increasingly popular, such as mountain climbing in Himalayas and roughing it in a wilderness expedition. 
+
+* 应试教育
+
+  exam-oriented education
+
+* 捧杀
+
+  Spare the rod and 
+
+  Spoil the child
+
+  
+
+# P196 - P197
+
+
+
