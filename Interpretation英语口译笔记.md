@@ -617,3 +617,38 @@ factor  of
 
 
 
+# 11
+
+* 根据最近一份报告，道路交通伤害已经成为全球性的公共安全危机。2000年，全球共有**126万**人死于道路交通伤害，占世界死亡人数的2.2%，在人类死亡和发病的原因中排在第9位。按照世界卫生组织的预测，道路交通伤害致死致残的数量到2020年将上升至第3位，排位远在艾滋病、疟疾等健康问题之前。
+
+  In year of 2000, about 12.6million people die from global mortality
+
+  rank third among the causes of mortality and morbidity
+
+  rank as the ninth cause of 
+
+  It is predicted that accidents could rank as the third cause of death and disability, ahead of AIDS and 
+
+* 上海国际电影节创办于1993年，其宗旨是：增进各国、各地区电影节人士的相互了解和友谊，促进世界电影艺术的交流和繁荣。它已经成为世界电影人和海内外专业媒体的一场盛大集会和文化品宴。电影节洗净了来自世界各地的优秀电影。参赛影片题材丰富，
+
+  Festival made its debut with the objective to promote/enhance/boost the friendship among the people of film industry/community/world and enhance the prosperity of film. It has become a grand gathering and cultural feast for film aritists and community of media, which has atrracted.
+
+  Competing films
+
+  Some are new works/offerings of senior master-hands and some are pioneer products/works of young talents.
+
+  some 
+
+
+
+### restructure the sentence
+
+### sense group
+
+Long sentence: complicated
+
+Head clause/
+
+
+
+Cutting and splitting
