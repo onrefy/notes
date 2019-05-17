@@ -446,13 +446,30 @@ draw();
 
    注意使用超出canvas边界的数据都会返回0
 
-4. 使用ImageData设置canvas
+4. 获取某一个点的pixel：
+
+   ```javascript
+   function pick(event) {
+     var x = event.layerX;
+     var y = event.layerY;
+     var pixel = ctx.getImageData(x, y, 1, 1);
+     var data = pixel.data;
+     var rgba = 'rgba(' + data[0] + ',' + data[1] +
+                ',' + data[2] + ',' + (data[3] / 255) + ')';
+     color.style.background =  rgba;
+     color.textContent = rgba;
+   }
+   ```
+
+   
+
+5. 使用ImageData设置canvas
 
    ```javascript
    ctx.putImageData(myImageData, x, y)
    ```
 
-5. 下载图片
+6. 下载图片
 
    ```javascript
    var url = canvas.toDataURL('image/png')
