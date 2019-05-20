@@ -242,3 +242,81 @@ computed: {
 //...
 ```
 
+所以总结一下，计算属性只有在需要本身数据计算交互的时候使用。
+
+
+
+### 绑定class和style
+
+### 绑定class
+
+```html
+<div v-bind:class="{ active: isActive }"></div>
+```
+
+绑定总是使用对象语法：active是否存在取决于isActive
+
+
+
+也可以使用变量去代替
+
+```html
+<div v-bind:class="classObject"></div>
+```
+
+```javascript
+data: {
+  classObject: {
+    active: true,
+    'text-danger': false
+  }
+}
+```
+
+那么变量可以写到计算属性之中：
+
+```javascript
+data: {
+  isActive: true,
+  error: null
+},
+computed: {
+  classObject: function () {
+    return {
+      active: this.isActive && !this.error,
+      'text-danger': this.error && this.error.type === 'fatal'
+    }
+  }
+}
+```
+
+#### 使用数组语法绑定多个class
+
+```html
+<div v-bind:class="[activeClass, errorClass]"></div>
+```
+
+```javascript
+data: {
+  activeClass: 'active',
+  errorClass: 'text-danger'
+}
+```
+
+### 绑定style
+
+```html
+<div v-bind:style="{ color: activeColor, fontSize: fontSize + 'px' }"></div>
+```
+
+```javascript
+data: {
+  activeColor: 'red',
+  fontSize: 30
+}
+```
+
+数组语法和class相同
+
+**注意：JavaScript中的truly不等于true，truly是经过转换后未true的值**
+
