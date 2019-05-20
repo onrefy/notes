@@ -122,7 +122,11 @@ so here comes our last stage, we use a skeleton to hold our spirals, to make the
 
 and actually we came across few obstacles when we are building, one thing is that our skeleton wasn't stable as we thought at the beginning because there is no triangle from this side, so we add a cross connection for our skeleton and the problem was fixed.
 
-last we want our work has some realistic function so actually one part is for sitting inside the pengkun's stomach
+the last thing we want to mention is actually one part is for sitting or layying inside the pengkun's stomach, so the person in it can feel the tension our structure and also want to be a bird in the sky or a fish in the ocean.
+
+
+
+
 
 this is our little baby kunpeng and we hope it can bring this world more happiness and that is all thank you!
 
