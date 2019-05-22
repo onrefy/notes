@@ -320,3 +320,78 @@ data: {
 
 **注意：JavaScript中的truly不等于true，truly是经过转换后未true的值**
 
+## 条件渲染
+
+### v-if v-else v-else-if
+
+v-if直接决定一个元素是否被渲染
+
+```html
+<div v-if="type === 'A'">
+  A
+</div>
+<div v-else-if="type === 'B'">
+  B
+</div>
+<div v-else-if="type === 'C'">
+  C
+</div>
+<div v-else>
+  Not A/B/C
+</div>
+```
+
+
+
+#### 使用template来打包渲染
+
+```html
+<template v-if="ok">
+  <h1>Title</h1>
+  <p>Paragraph 1</p>
+  <p>Paragraph 2</p>
+</template>
+```
+
+#### vue会高度利用重复的元素来加快渲染，可以通过key来管理
+
+```html
+<template v-if="loginType === 'username'">
+  <label>Username</label>
+  <input placeholder="Enter your username">
+</template>
+<template v-else>
+  <label>Email</label>
+  <input placeholder="Enter your email address">
+</template>
+```
+
+上面代码中重新输出input不会改变已有内容，因为vue会重复利用input元素，而input元素只是修改了placeholder属性。
+
+如果不想让vue利用重复元素加快渲染，可以使用key属性：
+
+```html
+<template v-if="loginType === 'username'">
+  <label>Username</label>
+  <input placeholder="Enter your username" key="username-input">
+</template>
+<template v-else>
+  <label>Email</label>
+  <input placeholder="Enter your email address" key="email-input">
+</template>
+```
+
+
+
+### v-show
+
+v-show仅仅修改的是元素的display属性
+
+
+
+### v-show 和 v-if
+
+v-if 切换开销大
+
+v-show初始渲染开销大
+
