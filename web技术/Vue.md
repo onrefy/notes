@@ -395,3 +395,156 @@ v-if 切换开销大
 
 v-show初始渲染开销大
 
+
+
+### v-for
+
+#### 基本用法
+
+```html
+<ul id="example-1">
+  <li v-for="item in items">
+    {{ item.message }}
+  </li>
+</ul>
+```
+
+```javascript
+var example1 = new Vue({
+  el: '#example-1',
+  data: {
+    items: [
+      { message: 'Foo' },
+      { message: 'Bar' }
+    ]
+  }
+})
+```
+
+#### 对父作用域属性有完全访问权限，并且第二个参数可以作为index
+
+```html
+<ul id="example-2">
+  <li v-for="(item, index) in items">
+    {{ parentMessage }} - {{ index }} - {{ item.message }}
+  </li>
+</ul>
+```
+
+```javascript
+var example2 = new Vue({
+  el: '#example-2',
+  data: {
+    parentMessage: 'Parent',
+    items: [
+      { message: 'Foo' },
+      { message: 'Bar' }
+    ]
+  }
+})
+```
+
+#### 对象也可以v-for
+
+```html
+<ul id="v-for-object" class="demo">
+  <li v-for="value in object">
+    {{ value }}
+  </li>
+</ul>
+```
+
+```javascript
+new Vue({
+  el: '#v-for-object',
+  data: {
+    object: {
+      title: 'How to do lists in Vue',
+      author: 'Jane Doe',
+      publishedAt: '2016-04-10'
+    }
+  }
+})
+```
+
+**其中第二个参数可以是键名**
+
+
+
+
+
+#### v-for更新逻辑
+
+不会改变dom的顺序，只是改变dom所处位置的值，如果需要改变，可以使用key属性
+
+
+
+
+
+#### v-for的更新逻辑
+
+##### 变异方法：这些方法被vue监听，会自动更新
+
+或者
+
+##### 替换数组
+
+
+
+
+
+##### 两个需要关注的不会更新的数组操作：
+
+1. array[index] = newValue; 
+
+   解决方法：
+
+   * ```javascript
+     Vue.set(vm.items, indexOfItem, newValue)
+     ```
+
+   * ```javascript
+     vm.items.splice(indexOfItem, 1, newValue)
+     ```
+
+2. array.length = newLength;
+
+   解决方法：
+
+   * ```javascript
+     vm.items.splice(newLength)
+     ```
+
+
+
+##### 需要关注的不会更新的对象操作
+
+对对象的属性的添加、删除都不会更新对象
+
+解决方案：
+
+```javascript
+Vue.set(vm.userProfile, 'age', 27)
+```
+
+
+
+#### v-for template
+
+不解释，和v-if一样
+
+```javascript
+<ul>
+  <template v-for="item in items">
+    <li>{{ item.msg }}</li>
+    <li class="divider" role="presentation"></li>
+  </template>
+</ul>
+```
+
+
+
+#### v-for 和 v-if 同时使用的时候 v-for 的优先级更高
+
+
+
