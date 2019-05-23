@@ -651,4 +651,56 @@ Head clause/
 
 
 
-Cutting and splitting`
+Cutting and splitting
+
+
+
+# 12
+
+* 中国正处于工业化和城市化快速推进的发展阶段，拥有支撑经济发展的物质技术基础，有日益增长的市场需求，有丰富的和整体素质不断提高的劳动力资源，有一批通过改革创新成长起来的富有活力的企业，有稳定的社会政治环境。我们需要有正确的国内外政策和敏锐的应对能力，这样才能充分抓住这样的机遇和就业的机会。
+
+  Being in a rapid period of industrialization and urbanlizaiton, China has foundation to support/sustain the eco development, rising market demand, abundant and increasingly well-trained labor resources, a large number of dynamic enterprises which have emerged by innovation. We need correct policy and ability to face the change to seize the opputinity and make good use of the chance. 
+
+* 现在很多孩子都用上了手机或经常上网。一个古老的现象—恐吓，也插上了高科技的翅膀。孩子在教室操场上受到威胁，至少可以从老师或家长那里得到庇护。但是，他们看电视、吃饭或出游的时候，恐吓信息会突然冒出来，极具危害性。调查发现，有超过四分之一的年轻人遇到过来自手机或电脑的威胁。其中，10%的人在手机上受到过恐吓威胁信息。
+
+  Children who can are bullied in the classroom or playground can be protected at least by parent. However, they will receive text message when watching TV eating dinner or  going dining.
+
+* 现代化的交通和通讯方式使世界变得越来越小，整个国际社会好像一个巨大的地球村。有着不同文化背景和价值观的地球村村民们在文化交流和文化冲撞中和睦相处。
+
+  The world is getting smaller and appears to be a global village, where villagers with different background and values seek to live in harmony.
+
+
+
+* 来客也不少，有送行的，有来拿东西的，有送行兼拿东西的。
+
+  We had quite a few visitors, some to see us off, some to fetch things and some to do both.
+
+* 你必须告诉我真实情况，既不要夸大，也不要缩小。
+
+  You must tell me the truth, with nothing added or nothing removed.
+
+* 我们上午参观了博物馆，中间匆忙吃了顿午饭，就去参观艺术馆。
+
+  We visited museum and later went to art gallery, with a hurried lunch between.
+
+* 我强作均匀的深呼吸，努力使自己镇静下来。
+
+  Forcing deep and even breath, I try to calm myself down.
+
+* 豫园在1982年列为国务院重点保护单位，是中国南方最优秀的园林之一。
+
+  Placed under the protection of, Yuyuan is the best .
+
+* 任何一个国家，如果想要看重年轻人
+
+  Priority should be given to protection in any country which intends/plans to 
+
+* 是个人物。
+
+  Be somebody.
+
+* 公元15世纪，我国著名航海家郑和从南京出发七下西洋，使这座城市与世界很多国家建立了联系，从而开启了南京对外交往的历史篇章。
+
+  The seven voyages laughed from NJ by ZH promoted the city to establish ties, initiating historical age of communication with foreign countries.
+
+* 
