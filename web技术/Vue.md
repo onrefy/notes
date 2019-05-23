@@ -242,3 +242,309 @@ computed: {
 //...
 ```
 
+所以总结一下，计算属性只有在需要本身数据计算交互的时候使用。
+
+
+
+### 绑定class和style
+
+### 绑定class
+
+```html
+<div v-bind:class="{ active: isActive }"></div>
+```
+
+绑定总是使用对象语法：active是否存在取决于isActive
+
+
+
+也可以使用变量去代替
+
+```html
+<div v-bind:class="classObject"></div>
+```
+
+```javascript
+data: {
+  classObject: {
+    active: true,
+    'text-danger': false
+  }
+}
+```
+
+那么变量可以写到计算属性之中：
+
+```javascript
+data: {
+  isActive: true,
+  error: null
+},
+computed: {
+  classObject: function () {
+    return {
+      active: this.isActive && !this.error,
+      'text-danger': this.error && this.error.type === 'fatal'
+    }
+  }
+}
+```
+
+#### 使用数组语法绑定多个class
+
+```html
+<div v-bind:class="[activeClass, errorClass]"></div>
+```
+
+```javascript
+data: {
+  activeClass: 'active',
+  errorClass: 'text-danger'
+}
+```
+
+### 绑定style
+
+```html
+<div v-bind:style="{ color: activeColor, fontSize: fontSize + 'px' }"></div>
+```
+
+```javascript
+data: {
+  activeColor: 'red',
+  fontSize: 30
+}
+```
+
+数组语法和class相同
+
+**注意：JavaScript中的truly不等于true，truly是经过转换后未true的值**
+
+## 条件渲染
+
+### v-if v-else v-else-if
+
+v-if直接决定一个元素是否被渲染
+
+```html
+<div v-if="type === 'A'">
+  A
+</div>
+<div v-else-if="type === 'B'">
+  B
+</div>
+<div v-else-if="type === 'C'">
+  C
+</div>
+<div v-else>
+  Not A/B/C
+</div>
+```
+
+
+
+#### 使用template来打包渲染
+
+```html
+<template v-if="ok">
+  <h1>Title</h1>
+  <p>Paragraph 1</p>
+  <p>Paragraph 2</p>
+</template>
+```
+
+#### vue会高度利用重复的元素来加快渲染，可以通过key来管理
+
+```html
+<template v-if="loginType === 'username'">
+  <label>Username</label>
+  <input placeholder="Enter your username">
+</template>
+<template v-else>
+  <label>Email</label>
+  <input placeholder="Enter your email address">
+</template>
+```
+
+上面代码中重新输出input不会改变已有内容，因为vue会重复利用input元素，而input元素只是修改了placeholder属性。
+
+如果不想让vue利用重复元素加快渲染，可以使用key属性：
+
+```html
+<template v-if="loginType === 'username'">
+  <label>Username</label>
+  <input placeholder="Enter your username" key="username-input">
+</template>
+<template v-else>
+  <label>Email</label>
+  <input placeholder="Enter your email address" key="email-input">
+</template>
+```
+
+
+
+### v-show
+
+v-show仅仅修改的是元素的display属性
+
+
+
+### v-show 和 v-if
+
+v-if 切换开销大
+
+v-show初始渲染开销大
+
+
+
+### v-for
+
+#### 基本用法
+
+```html
+<ul id="example-1">
+  <li v-for="item in items">
+    {{ item.message }}
+  </li>
+</ul>
+```
+
+```javascript
+var example1 = new Vue({
+  el: '#example-1',
+  data: {
+    items: [
+      { message: 'Foo' },
+      { message: 'Bar' }
+    ]
+  }
+})
+```
+
+#### 对父作用域属性有完全访问权限，并且第二个参数可以作为index
+
+```html
+<ul id="example-2">
+  <li v-for="(item, index) in items">
+    {{ parentMessage }} - {{ index }} - {{ item.message }}
+  </li>
+</ul>
+```
+
+```javascript
+var example2 = new Vue({
+  el: '#example-2',
+  data: {
+    parentMessage: 'Parent',
+    items: [
+      { message: 'Foo' },
+      { message: 'Bar' }
+    ]
+  }
+})
+```
+
+#### 对象也可以v-for
+
+```html
+<ul id="v-for-object" class="demo">
+  <li v-for="value in object">
+    {{ value }}
+  </li>
+</ul>
+```
+
+```javascript
+new Vue({
+  el: '#v-for-object',
+  data: {
+    object: {
+      title: 'How to do lists in Vue',
+      author: 'Jane Doe',
+      publishedAt: '2016-04-10'
+    }
+  }
+})
+```
+
+**其中第二个参数可以是键名**
+
+
+
+
+
+#### v-for更新逻辑
+
+不会改变dom的顺序，只是改变dom所处位置的值，如果需要改变，可以使用key属性
+
+
+
+
+
+#### v-for的更新逻辑
+
+##### 变异方法：这些方法被vue监听，会自动更新
+
+或者
+
+##### 替换数组
+
+
+
+
+
+##### 两个需要关注的不会更新的数组操作：
+
+1. array[index] = newValue; 
+
+   解决方法：
+
+   * ```javascript
+     Vue.set(vm.items, indexOfItem, newValue)
+     ```
+
+   * ```javascript
+     vm.items.splice(indexOfItem, 1, newValue)
+     ```
+
+2. array.length = newLength;
+
+   解决方法：
+
+   * ```javascript
+     vm.items.splice(newLength)
+     ```
+
+
+
+##### 需要关注的不会更新的对象操作
+
+对对象的属性的添加、删除都不会更新对象
+
+解决方案：
+
+```javascript
+Vue.set(vm.userProfile, 'age', 27)
+```
+
+
+
+#### v-for template
+
+不解释，和v-if一样
+
+```javascript
+<ul>
+  <template v-for="item in items">
+    <li>{{ item.msg }}</li>
+    <li class="divider" role="presentation"></li>
+  </template>
+</ul>
+```
+
+
+
+#### v-for 和 v-if 同时使用的时候 v-for 的优先级更高
+
+
+
