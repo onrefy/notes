@@ -703,4 +703,25 @@ Cutting and splitting
 
   The seven voyages laughed from NJ by ZH promoted the city to establish ties, initiating historical age of communication with foreign countries.
 
-* 
+
+
+# 13
+
+* 信息到处弥漫着，我们足不出户，甚至不用起床，便可知晓天下事。那么图书馆还有什么用处？图书馆是储藏传播智慧、交流思想、酝酿创造力的地方。但现在的情形是，许多人正在被动地漫游在未加筛选的信息汪洋大海中，逐渐失去判断好坏的能力。长此以往，我们将来能否还会拥有一个延续的文明不得而知。
+
+  A library where wisdom is stored and disseminated, ideas are exchanged and creativity is inspired. Many people are passive surfers in a vast sea of unsorted information, are losing their ability to tell differentiate/judge. It remains unknown whether a man will have a continuous civilization over time.
+
+* She was not father's child for nothing.
+
+  她不愧是她父亲的孩子。
+
+* He was nothing if not clever.
+
+* What he said was nothing less than a lie.
+
+* The resigned dishonorably.
+
+* You should know better than to play football in the classroom.
+
+* He was wiser than to have done such a thing.
+
