@@ -725,3 +725,157 @@ Cutting and splitting
 
 * He was wiser than to have done such a thing.
 
+
+
+# 14
+
+* Bread and butter 
+
+  life necessities
+
+* 粗茶淡饭
+
+  bread and water
+
+* animals metaphor
+
+  - as poor as a church mouse
+
+    一贫如洗
+
+  - lion in the way
+
+    拦路虎
+
+  - dragon: monster
+
+* spear the beans
+
+  let the cat out of the bag
+
+  泄密
+
+* keep one's memory green
+
+  条理清晰
+
+* wet behind the ears
+
+  乳臭未干
+
+* sb is yellow
+
+  有点胆小
+
+* red-handed
+
+  人脏并获
+
+* jack of all trades ans master of none
+
+  三脚猫
+
+* 当家作主
+
+  His wife wears the pants.
+
+* 走关系
+
+  Pull strings: 
+
+* a Judas kiss
+
+  背叛行为
+
+* Achilles' heel
+
+  致命弱点
+
+*  a sword of Damocles
+
+  提心吊胆
+
+* downsize
+
+  裁员
+
+* finger-crossed
+
+  祈祷
+
+* point one's finger at sb
+
+  责备
+
+* cupboard of love
+
+  醉翁之意不在酒
+
+* Trojan horse
+
+  Greek gift
+
+* Helen of Troy
+
+  红颜祸水
+
+* bury head in the sand
+
+  逃避现实
+
+* turn the other cheek
+
+  忍让
+
+* 目不识丁
+
+  illiterate
+
+  has no idea of ABC
+
+* open sesame
+
+  敲门砖
+
+* shylock
+
+  吝啬鬼、高利贷
+
+* James Bond
+
+  神通广大
+
+* keep up with the Joneses
+
+  赶时髦
+
+* French leave
+
+  不辞而别
+
+* nosedive
+
+  暴跌
+
+* 井井有条
+
+  apple-pie order
+
+* profiteer
+
+  倒爷
+
+* fish in troubled water
+
+   浑水摸鱼
+
+* burn the boat
+
+  sink or swim
+
+  neck or nothing
+
+* rob Peter to pay Paul
+
+  拆东墙补西墙
+
