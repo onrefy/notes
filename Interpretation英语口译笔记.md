@@ -703,4 +703,179 @@ Cutting and splitting
 
   The seven voyages laughed from NJ by ZH promoted the city to establish ties, initiating historical age of communication with foreign countries.
 
-* 
+
+
+# 13
+
+* 信息到处弥漫着，我们足不出户，甚至不用起床，便可知晓天下事。那么图书馆还有什么用处？图书馆是储藏传播智慧、交流思想、酝酿创造力的地方。但现在的情形是，许多人正在被动地漫游在未加筛选的信息汪洋大海中，逐渐失去判断好坏的能力。长此以往，我们将来能否还会拥有一个延续的文明不得而知。
+
+  A library where wisdom is stored and disseminated, ideas are exchanged and creativity is inspired. Many people are passive surfers in a vast sea of unsorted information, are losing their ability to tell differentiate/judge. It remains unknown whether a man will have a continuous civilization over time.
+
+* She was not father's child for nothing.
+
+  她不愧是她父亲的孩子。
+
+* He was nothing if not clever.
+
+* What he said was nothing less than a lie.
+
+* The resigned dishonorably.
+
+* You should know better than to play football in the classroom.
+
+* He was wiser than to have done such a thing.
+
+
+
+# 14
+
+* Bread and butter 
+
+  life necessities
+
+* 粗茶淡饭
+
+  bread and water
+
+* animals metaphor
+
+  - as poor as a church mouse
+
+    一贫如洗
+
+  - lion in the way
+
+    拦路虎
+
+  - dragon: monster
+
+* spear the beans
+
+  let the cat out of the bag
+
+  泄密
+
+* keep one's memory green
+
+  条理清晰
+
+* wet behind the ears
+
+  乳臭未干
+
+* sb is yellow
+
+  有点胆小
+
+* red-handed
+
+  人脏并获
+
+* jack of all trades ans master of none
+
+  三脚猫
+
+* 当家作主
+
+  His wife wears the pants.
+
+* 走关系
+
+  Pull strings: 
+
+* a Judas kiss
+
+  背叛行为
+
+* Achilles' heel
+
+  致命弱点
+
+*  a sword of Damocles
+
+  提心吊胆
+
+* downsize
+
+  裁员
+
+* finger-crossed
+
+  祈祷
+
+* point one's finger at sb
+
+  责备
+
+* cupboard of love
+
+  醉翁之意不在酒
+
+* Trojan horse
+
+  Greek gift
+
+* Helen of Troy
+
+  红颜祸水
+
+* bury head in the sand
+
+  逃避现实
+
+* turn the other cheek
+
+  忍让
+
+* 目不识丁
+
+  illiterate
+
+  has no idea of ABC
+
+* open sesame
+
+  敲门砖
+
+* shylock
+
+  吝啬鬼、高利贷
+
+* James Bond
+
+  神通广大
+
+* keep up with the Joneses
+
+  赶时髦
+
+* French leave
+
+  不辞而别
+
+* nosedive
+
+  暴跌
+
+* 井井有条
+
+  apple-pie order
+
+* profiteer
+
+  倒爷
+
+* fish in troubled water
+
+   浑水摸鱼
+
+* burn the boat
+
+  sink or swim
+
+  neck or nothing
+
+* rob Peter to pay Paul
+
+  拆东墙补西墙
+

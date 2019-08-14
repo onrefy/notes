@@ -330,15 +330,11 @@ ctx.fillStyle = 'rgba(255, 165, 0, 1)';
    * 使用本地文件
 
      ```javascript
-     var img = new Image();
-     img.addEventListener('load', function (){
-       //draw something here
-     }, false);
-     img.src = './myImage.png';
+     c
      ```
-
+     
      注意需要加载完才用drawImage();
-
+   
 2. 绘制图片
 
    `drawImage(image, x, y)`
