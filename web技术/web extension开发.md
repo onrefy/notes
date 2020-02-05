@@ -60,3 +60,8 @@ chrome-extension://<extensionID>/<pathToFile>
 
 
 
+
+
+
+
+# 文件思想数目为-1个 文件单位思想为0.0
